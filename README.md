@@ -1,23 +1,26 @@
 <p align="center">
 <img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
 </p>
-<h1 align="center">C4_deployment-3.1<h1> 
+<h1 align="center">C4_deployment-3<h1> 
 
-The Story
------------------------------------------
-We’re a tech start-up company with a URL shortener tool. We have a SLA with Nike to provide them access to our URL shortener. In the SLA, we are only allowed 20 minutes of downtime a year. If anything happens to the URL shortener, we must communicate any incidents to Nike.
- 
-Scenario
------------------------------------------
-A new hire was tasked with updating the URL shortener. The new hire committed version 2 of the application to the main branch. Which automatically triggered a build, test, and deploy to the production server, replacing version 1 of the application running on the server.
+Demonstrate your ability deploy a fully automated Elastic Beanstalk deployment.
 
-Next Steps 
------------------------------------------
-Create a post-incident report. The report must include:
-- What was the reason for the incident?
-- How long was the site down or malfunctioning?
-- What steps were taken to resolve the incident?
-- Was the incident fully resolved?
-- What steps would you take to prevent this from happening again?
+- Create a separate GitHub repository for this application 
 
-  
+- Download the files from this repository and upload them to your newly created repository 
+
+- Be sure to follow the deployment instructions from this repository  
+
+- Document your progress in a .md file in your repository. Also, document any issues you may run into and what you did to fix them.
+
+- Make sure your documentation includes these sections:
+  - Purpose
+  - Issues
+  - Steps
+  - System Diagram
+  - Optimization (How would make this deployment more efficient)
+
+- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
+
+## Deployment instructions Link:
+-  Link to instructions: https://github.com/kura-labs-org/c4_deployment-3/blob/main/Deployment-instructions.md
